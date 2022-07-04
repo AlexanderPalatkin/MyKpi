@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">My kpi</string>
+    <string name="app_name">My KPI</string>
+    <string name="save">Сохранить</string>
+    <string name="text_save_changes">Сохранить все изменения</string>
+    <string name="b_chek_result_text">проверить долю</string>
+    <string name="share_rust_text">Доля РУСТ</string>
+    <string name="text_total_share">Общая доля</string>
+    <string name="all_result_share_text">Выполнение доли</string>
+    <string name="b_add_visit_text">+</string>
+    <string name="all_visits_text">Всего визитов</string>
+    <string name="clear">Сброс всех данных</string>
 </resources>
